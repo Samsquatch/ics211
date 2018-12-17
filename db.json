@@ -1,0 +1,39 @@
+{
+  "sites": [
+    {
+      "id": 1,
+      "sitename": "Soundcloud",
+      "sitelink": "https://soundcloud.com",
+      "color": "orange",
+      "checked": false
+    },
+    {
+      "id": 2,
+      "sitename": "Youtube",
+      "sitelink": "https://youtube.com",
+      "color": "red",
+      "checked": false
+    },
+    {
+      "id": 3,
+      "sitename": "Twitter",
+      "sitelink": "https://twitter.com",
+      "color": "DeepSkyBlue",
+      "checked": false
+    },
+    {
+      "id": 4,
+      "sitename": "Gmail",
+      "sitelink": "https://gmail.com",
+      "color": "Crimson",
+      "checked": false
+    },
+    {
+      "id": 5,
+      "sitename": "Camosun",
+      "sitelink": "camosun.ca",
+      "color": "LightGreen",
+      "checked": false
+    }
+  ]
+}
